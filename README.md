@@ -4,7 +4,7 @@ La [documentation du système lidar de la salle A5-03](https://www.notion.so/Doc
 
 ## Set up
 
-le simulagteur de Valentin
+Le simulateur de Valentin 
 
 ## Données
 
